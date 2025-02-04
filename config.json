@@ -1,4 +1,5 @@
 {
+  "access-token": "Action Secret",
   "server": "fotolibre.social",
   "home-timeline-length": 200,
   "max-followings": 80,
